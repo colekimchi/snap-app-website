@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/colekim-react-website/snap-app-website/static/css/main.b2e2e49a.chunk.css",
+    "main.js": "/colekim-react-website/snap-app-website/static/js/main.4ed3e7d5.chunk.js",
+    "main.js.map": "/colekim-react-website/snap-app-website/static/js/main.4ed3e7d5.chunk.js.map",
+    "runtime-main.js": "/colekim-react-website/snap-app-website/static/js/runtime-main.ddd315e6.js",
+    "runtime-main.js.map": "/colekim-react-website/snap-app-website/static/js/runtime-main.ddd315e6.js.map",
+    "static/css/2.038361d8.chunk.css": "/colekim-react-website/snap-app-website/static/css/2.038361d8.chunk.css",
+    "static/js/2.46e7fd83.chunk.js": "/colekim-react-website/snap-app-website/static/js/2.46e7fd83.chunk.js",
+    "static/js/2.46e7fd83.chunk.js.map": "/colekim-react-website/snap-app-website/static/js/2.46e7fd83.chunk.js.map",
+    "index.html": "/colekim-react-website/snap-app-website/index.html",
+    "static/css/2.038361d8.chunk.css.map": "/colekim-react-website/snap-app-website/static/css/2.038361d8.chunk.css.map",
+    "static/css/main.b2e2e49a.chunk.css.map": "/colekim-react-website/snap-app-website/static/css/main.b2e2e49a.chunk.css.map",
+    "static/js/2.46e7fd83.chunk.js.LICENSE.txt": "/colekim-react-website/snap-app-website/static/js/2.46e7fd83.chunk.js.LICENSE.txt",
+    "static/media/icon1.svg": "/colekim-react-website/snap-app-website/static/media/icon1.753f2580.svg",
+    "static/media/meinthesnow.jpg": "/colekim-react-website/snap-app-website/static/media/meinthesnow.90374a95.jpg",
+    "static/media/tozai-bento-section.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-bento-section.9a1b2886.jpg",
+    "static/media/tozai-chirashi.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-chirashi.3d0330d4.jpg",
+    "static/media/tozai-inside-2.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-inside-2.ecb30636.jpg",
+    "static/media/tozai-market-front.b79a0b8d.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-market-front.b79a0b8d.jpg",
+    "static/media/tozai-onigiri.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-onigiri.4e377a8f.jpg",
+    "static/media/tozai-rolls-1.jpg": "/colekim-react-website/snap-app-website/static/media/tozai-rolls-1.0d18bbb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd315e6.js",
+    "static/css/2.038361d8.chunk.css",
+    "static/js/2.46e7fd83.chunk.js",
+    "static/css/main.b2e2e49a.chunk.css",
+    "static/js/main.4ed3e7d5.chunk.js"
+  ]
+}
